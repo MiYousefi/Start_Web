@@ -265,7 +265,7 @@ input, select, textarea {
     color: red;
     transition: all .3s;
 }
-.fa-youtube {
+.fab fa-youtube {
     font-size: 40px;
     color: white;
 }

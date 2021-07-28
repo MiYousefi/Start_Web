@@ -121,7 +121,7 @@ body {
 
 .row {
     max-width: 1300px;
-    margin: 0 auto;
+    margin: auto;
     padding: 10px;
 }
 
